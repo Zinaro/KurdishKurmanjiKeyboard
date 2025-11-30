@@ -29,6 +29,10 @@ else
 fi
 
 
-setxkbmap $KEYMAP
+if [ "$XDG_SESSION_TYPE" == "wayland" ]; then
+    sudo localectl set-x11-keymap $KEYMAP
+else
+    setxkbmap $KEYMAP
+fi
 
 echo "Klavye bi serkeftî hat sazkirin. Distro: $DISTRO"
