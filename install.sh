@@ -6,7 +6,7 @@ readonly PROGRAM=${0##*/}
 readonly LAYOUT=ku
 readonly LAYOUT_BRIEF=ku
 readonly LAYOUT_DESCRIPTION='Kurdish (Kurmanji)'
-readonly LAYOUT_LANGUAGE=kur
+readonly LAYOUT_LANGUAGE=ku
 readonly BACKUP_SUFFIX=pre-kurmanji
 
 readonly SYSTEM_XKB_DIR=/usr/share/X11/xkb
