@@ -10,4 +10,3 @@ git clone [https://github.com/Zinaro/KurdishKurmanjiKeyboard.git](https://github
 
 
 
-
