@@ -1,5 +1,5 @@
 # Kurdish Kurmanji Keyboard
-Kurdish (Kurmanji) keyboard for linux
+A native and seamless keyboard layout engineered specifically for Kurmanji Kurdish speakers on Linux environments.
 
 ## Quick Installation
 
