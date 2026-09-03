@@ -3,6 +3,7 @@ A native and seamless keyboard layout engineered specifically for Kurmanji Kurdi
 
 ## Quick Installation
 
+Install and activate the keyboard instantly using a single command in your terminal:
 ```bash
 git clone [https://github.com/Zinaro/KurdishKurmanjiKeyboard.git](https://github.com/Zinaro/KurdishKurmanjiKeyboard.git) && cd KurdishKurmanjiKeyboard && chmod +x install.sh && ./install.sh && setxkbmap ku```
 
